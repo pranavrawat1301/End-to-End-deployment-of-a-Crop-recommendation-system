@@ -1,0 +1,2 @@
+# End-to-End-deployment-of-a-Crop-recommendation-system
+Deployed an Artificial Neural Network (ANN) on a Flask web app for crop recommendations. Utilized TensorFlow and Keras for model creation. The system considers factors like soil composition, weather, and pH. Users input parameters for real-time, accurate crop suggestions. Enhance agriculture decisions with this data-driven recommendation tool.
