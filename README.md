@@ -47,4 +47,5 @@ Acknowledgments to the machine learning and agriculture communities for valuable
 
 
 # Important 
-**Another model using Gaussian Naive Bayes is also put in the code(commented out) and the related pickle files are also there feel free to use that if that suits you and your project more.**
+Another model using Gaussian Naive Bayes is also put in the code(commented out) and the related pickle files are also there feel free to use that if that suits you and your project more.
+app.yaml is also there for Google Cloud Implementation.
